@@ -54,8 +54,7 @@ Termux :
 https://github.com/termux/termux-app/releases
 
 Termux-X11:
-https://github.com/termux/t
-ermux-x11/releases
+https://github.com/termux/termux-x11/releases
 
 ---
 ~ $
