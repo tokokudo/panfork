@@ -50,8 +50,8 @@ https://gitlab.com/Peter756729890/panfork-mesa
 
 Required Apps
 
-Termux (v0.118.3):
-https://github.com/termux/termux-app/releases/tag/v0.118.3
+Termux :
+https://github.com/termux/termux-app/releases
 
 Termux-X11:
 https://github.com/termux/t
