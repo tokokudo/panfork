@@ -36,13 +36,14 @@ For Install Check Release
 
 Source Code
 
-My fork (optimized for Termux):
+My fork :
 https://github.com/anonymususer04/mesa-Panfork-android
 
 Saikatsaha's fork :
 https://github.com/Saikatsaha1996/mesa-Panfrost-G610
 
 One of the preserved forks from icecream95's original Panfork:
+
 https://gitlab.com/Peter756729890/panfork-mesa
 
 ---
