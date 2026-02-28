@@ -24,6 +24,8 @@ How to Test
 1. Install the Termux-X11 app.
 2. Run the following commands inside Termux:
 
+export LD_LIBRARY_PATH=$PREFIX/panfrost/lib LIBGL_DRIVERS_PATH=$PREFIX/panfrost/lib/dri GALLIUM_DRIVER=panfrost 
+
    glmark2
    glxgears -info
    glxinfo -B
