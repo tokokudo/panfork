@@ -27,8 +27,11 @@ How to Test
 export LD_LIBRARY_PATH=$PREFIX/panfrost/lib LIBGL_DRIVERS_PATH=$PREFIX/panfrost/lib/dri GALLIUM_DRIVER=panfrost 
 
    glmark2
+   
    glxgears -info
+   
    glxinfo -B
+   
 
 ---
 
